@@ -5,6 +5,7 @@ import PIL
 from PIL import Image
 import io
 
+st.set_page_config(page_title="Car Price Prediction", page_icon="pexels-andrew-neel-15863044.jpg")
 
 # sidebar
 st.sidebar.image("https://images.pexels.com/photos/15863044/pexels-photo-15863044/free-photo-of-monitor-screen-with-openai-logo-on-black-background.jpeg?auto=compress&cs=tinysrgb&w=600")
