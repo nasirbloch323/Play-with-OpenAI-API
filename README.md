@@ -1,7 +1,5 @@
 # Playing with Openai API's
 
-<p align="center"><img src="https://github.com/AbdullahProjects/Playing-with-Openai-API-s/blob/main/pexels-andrew-neel-15863044.jpg" width="50%" height="auto"></p>
-
 Welcome to the project. This project is created using openai api's. In this project, you can benefits from 3 things:
 - Sentimental Analysis: You can enter your text to get to know about whether the text having positive, negative or neutral emotions.
 - Blog Writing: You can write blog on any topic. Blog will be detailed including title, introduction, body, pros-cons, faq's(questions/answers).
